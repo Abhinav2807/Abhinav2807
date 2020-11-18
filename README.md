@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 </a>
 
 
-<center>
+<div>
+  <center>
   <a href="https://www.linkedin.com/in/abhinav999/">
     <img height="30" src="https://img.icons8.com/cute-clipart/2x/linkedin.png">
     </a>
 </center>
+</div>
