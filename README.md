@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 **Languages & Technologies**
-<code><img height="20" src="https://icons8.com/icon/55199/c-plus-plus-logo"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/2x/c-plus-plus-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/dart.png"></code>
-<code><img height="20 src"https://img.icons8.com/dusk/2x/python.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/html-5.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/css3.png"></code>
-<code><img height="20 src"https://img.icons8.com/fluent/2x/android-os.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/google-firebase-console.png"></code>
-<code><img height="20 src"https://img.icons8.com/ios-filled/2x/mysql.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/mongodb.png"></code>
-<code><img height="20 src"https://img.icons8.com/color/2x/bootstrap.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/dart.png"></code>
+<code><img height="20 src="https://img.icons8.com/dusk/2x/python.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/css3.png"></code>
+<code><img height="20 src="https://img.icons8.com/fluent/2x/android-os.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/google-firebase-console.png"></code>
+<code><img height="20 src="https://img.icons8.com/ios-filled/2x/mysql.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/mongodb.png"></code>
+<code><img height="20 src="https://img.icons8.com/color/2x/bootstrap.png"></code>
 
 <a href="https://github.com/Abhinav2807">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2807&theme=light&hide_langs_below=1" />
