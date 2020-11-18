@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Abhinav2807">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav2807&show_icons=true&theme=light&line_height=27" alt="Abhinav's github stats"/>
 </a>
+
+<center>
+  <a href="https://www.linkedin.com/in/abhinav999/">
+    <img height="20" src="https://img.icons8.com/cute-clipart/2x/linkedin.png">
+    </a>
+</center>
