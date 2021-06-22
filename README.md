@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 **Languages & Technologies**
 
 <code><img height="20" src="https://img.icons8.com/ios-filled/2x/c-plus-plus-logo.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/></code>
+<code><img height="20" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
