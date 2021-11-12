@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav2807&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav2807&repo=Script&theme=light" />
   </a>
 
   
