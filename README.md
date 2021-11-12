@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Languages & Technologies**
 
-- *Web Technologies* -->  
+- *Web Technologies*-->  
 <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
