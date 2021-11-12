@@ -21,31 +21,32 @@ Here are some ideas to get you started:
 
 
 **Languages & Technologies**
- *Web Technologies*
-- <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/html-5.png"></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/css3.png"></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
 
- *Mobile Technologies*
-- <code><img height="20" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
-- <code><img height="20" src="https://img.icons8.com/fluent/2x/android-os.png"></code>
+- *Web Technologies*
+<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
+<code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/html-5.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/css3.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
 
- *Languages*
-- <code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
-- <code><img height="20" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
-- <code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
-- <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+- *Mobile Technologies*
+<code><img height="20" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
+<code><img height="20" src="https://img.icons8.com/fluent/2x/android-os.png"></code>
 
- *Databases & Backend*
-- <code><img height="20" src="https://img.icons8.com/color/2x/google-firebase-console.png"></code>
-- <code><img height="20" src="https://img.icons8.com/ios-filled/2x/mysql.png"></code>
-- <code><img height="20" src="https://img.icons8.com/color/2x/mongodb.png"></code>
-- <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+- *Languages*
+<code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+
+- *Databases & Backend*
+<code><img height="20" src="https://img.icons8.com/color/2x/google-firebase-console.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios-filled/2x/mysql.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/2x/mongodb.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 
 
 <a href="https://github.com/Abhinav2807">
