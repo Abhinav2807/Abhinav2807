@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
-<code><img height="20 src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
