@@ -57,6 +57,10 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav2807&show_icons=true&theme=light&line_height=27" alt="Abhinav's github stats"/>
 </a>
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav2807&theme=light" />
+  </a>
+
   
 
 
