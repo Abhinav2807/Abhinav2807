@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 **Languages & Technologies**
 
-<code><img height="20" src="https://img.icons8.com/ios-filled/2x/c-plus-plus-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
+<code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
+<code><img height="20 src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
@@ -40,4 +42,6 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav2807&show_icons=true&theme=light&line_height=27" alt="Abhinav's github stats"/>
 </a>
 
+  
+<a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript">JavaScript icon by Icons8</a>
 
