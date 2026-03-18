@@ -1,8 +1,8 @@
 # Hey, I'm Abhinav Ayush 👋
 
-**Software Engineer @ [Flume AI](https://www.flumeai.com)** | San Francisco Bay Area
+**Founding Engineer @ [Flume AI](https://www.flumeai.com)** | Remote
 
-I build full-stack products — from AI-powered backend services to polished frontend experiences and mobile apps. Currently deep into construction-tech, building tools that modernize how the industry sources materials and manages supply chains.
+First engineer at Flume AI, part of the [Hf0 Residency](https://www.hf0.com). Helped the team raise the pre-seed round. Previously SDE 2 at **American Express** and engineer at **Bright Money**. I build full-stack products — from AI-powered backend services to polished frontend experiences and mobile apps. Currently deep into construction-tech, building tools that modernize how the industry sources materials and manages supply chains.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav999/)
 
@@ -15,8 +15,6 @@ I build full-stack products — from AI-powered backend services to polished fro
   - React + TypeScript frontends with **Vite**, **Tailwind CSS**, and **Radix UI**
   - AI/LLM integrations using **OpenAI**, **Gemini**, **Anthropic Claude**, and **LangChain**
   - Data pipelines, supplier scoring models, and intelligent document processing
-
-- **Remembrall** — A personal Flutter app for gift card management with biometric auth, location tracking, and home screen widgets (iOS + Android)
 
 ---
 
