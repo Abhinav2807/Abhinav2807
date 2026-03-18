@@ -1,66 +1,85 @@
-### Hi there 👋
+# Hey, I'm Abhinav Ayush 👋
 
-<!--
-**Abhinav2807/Abhinav2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer @ [Flume AI](https://www.flumeai.com)** | San Francisco Bay Area
 
-Here are some ideas to get you started:
+I build full-stack products — from AI-powered backend services to polished frontend experiences and mobile apps. Currently deep into construction-tech, building tools that modernize how the industry sources materials and manages supply chains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav999/)
 
-- 🔭 I’m currently working on ... <code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code> <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-- 🌱 I’m currently learning ... <code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
-<!-- - 📫 How to reach me: ...  -->
+---
 
+### What I'm Working On
 
-**Languages & Technologies**
+- **@ Flume AI** — Building an AI-powered sourcing platform for the construction industry
+  - Backend microservices with **FastAPI** & **Django**, deployed on **GCP**
+  - React + TypeScript frontends with **Vite**, **Tailwind CSS**, and **Radix UI**
+  - AI/LLM integrations using **OpenAI**, **Gemini**, **Anthropic Claude**, and **LangChain**
+  - Data pipelines, supplier scoring models, and intelligent document processing
 
-- *Web Technologies*-->  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
-<code><img height="20" src="https://img.icons8.com/bubbles/50/000000/react.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/html-5.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/css3.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
+- **Remembrall** — A personal Flutter app for gift card management with biometric auth, location tracking, and home screen widgets (iOS + Android)
 
-- *Mobile Technologies* -->
-<code><img height="20" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/flutter.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluent/2x/android-os.png"></code>
+---
 
-- *Languages* -->
-<code><img height="20" src="https://img.icons8.com/dusk/2x/python.png"></code>
-<code><img height="20" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/dart.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+### Tech Stack
 
-- *Databases & Backend* -->
-<code><img height="20" src="https://img.icons8.com/color/2x/google-firebase-console.png"></code>
-<code><img height="20" src="https://img.icons8.com/ios-filled/2x/mysql.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/mongodb.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-<a href="https://github.com/Abhinav2807">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2807&theme=light&hide_langs_below=1" />
-</a>
+**Backend & APIs**
 
-<a href="https://github.com/Abhinav2807">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhinav2807&show_icons=true&theme=light&line_height=27" alt="Abhinav's github stats"/>
-</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav2807&repo=Script&theme=light" />
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Cloud & Databases**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+### GitHub Stats
+
+<p>
+  <a href="https://github.com/Abhinav2807">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhinav2807&show_icons=true&theme=github_dark&hide_border=true" alt="Abhinav's GitHub Stats"/>
   </a>
+  <a href="https://github.com/Abhinav2807">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav2807&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
 
-  
+---
 
-
+<p align="center">
+  <i>Always building something. Let's connect!</i>
+</p>
