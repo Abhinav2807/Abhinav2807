@@ -2,7 +2,13 @@
 
 **Sr. Founding Engineer @ [Tryflume.ai](https://www.tryflume.ai)** | Remote
 
-Drove all zero-to-one engineering at Tryflume as the sole technical founding member during the [Hf0 Residency](https://www.hf0.com), shipping the platform that helped close $3M+ in pre-seed funding. Previously SDE 2 at **American Express** (compliance tooling) and SDE 1 at **BrightMoney** (fintech, Plaid integrations). I build full-stack products from scratch: multimodal search engines, real-time AI chat, and end-to-end commercial pipelines.
+I am a full-stack engineer with 5+ years of experience, thriving at the intersection of product architecture and rapid execution.
+
+Most recently, as the sole technical founding member of [Tryflume.ai](https://www.tryflume.ai) during the [Hf0 residency](https://www.hf0.com), I built the product from the ground up. I architected a robust GCP backend using FastAPI and Cloud Run, developed an advanced multi-modal product discovery engine, and led the frontend architecture across five React/TypeScript applications. This zero-to-one technical execution laid the foundation that facilitated a successful $3M+ pre-seed funding round.
+
+Prior to diving into the startup ecosystem, I scaled enterprise systems as an SDE2 at **American Express** and an SDE1 at **BrightMoney**. There, I engineered high-volume financial compliance tools, real-time query experiences, and secure data aggregation APIs.
+
+I'm deeply energized by building end-to-end systems and applying modern AI—like custom LLM rerankers and vision embeddings—to streamline complex workflows. I’m currently looking for roles where I can take deep ownership of the architecture and ship high-impact products fast.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav999/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat&logo=google-chrome&logoColor=black)](https://abhinav2807.github.io)
@@ -12,11 +18,14 @@ Drove all zero-to-one engineering at Tryflume as the sole technical founding mem
 ### What I'm Working On
 
 - **@ Tryflume.ai** — AI-powered sourcing platform for the construction industry
-  - Multimodal search engine (text, image, hybrid) over a 200 GB+ supplier corpus with MongoDB Atlas Vector Search and Gemini-based reranking
-  - Automated ETL pipeline scraping 4,000+ suppliers using Playwright and Gemini Vision for PDF layout parsing
-  - SourcingHub: state-machine driven commercial pipeline (quotes, invoices, Stripe payments) with FastAPI and PostgreSQL
-  - Real-time sourcing chat (Socket.io) — product photo to supplier quote in a single session
-  - 5 production React/TypeScript apps with shared component library, Firebase auth, and PostHog analytics
+  - Architected a scalable microfrontend ecosystem via Module Federation with a shared component library, centralized event telemetry, and robust multi-tenant authentication
+  - Engineered a full-stack multi-modal product discovery engine using vision embeddings, MongoDB Atlas Vector Search, and Gemini Flash reranking, integrated with a virtualized UI and RTK Query caching
+  - Built a catalog ingestion pipeline using Gemini Vision and multi-agent orchestration to automate data extraction and normalization with GCP Cloud Task Queues
+  - Developed scalable product search APIs for external partners, implementing distributed caching and dynamic rate limiting to support high-volume B2B integrations
+  - Developed an end-to-end quotation, invoicing, and payment receipt system featuring dynamic tax calculation, PDF versioning, and integrated AI QA agents
+  - Designed a real-time AI sourcing assistant featuring intelligent agent routing, RAG retrieval, and dynamic rendering of interactive UI components
+  - Engineered offline-first capabilities for low-connectivity environments using Service Workers and Web Workers
+  - Automated multi-environment CI-CD pipelines to Cloud Run via GitHub Actions
 
 ---
 
